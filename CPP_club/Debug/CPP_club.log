@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\den26\source\repos\CPP_club\CPP_club\Source.cpp(103,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\den26\source\repos\CPP_club\CPP_club\Source.cpp(110,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\den26\source\repos\CPP_club\CPP_club\Source.cpp(120,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\den26\source\repos\CPP_club\CPP_club\Source.cpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+  CPP_club.vcxproj -> C:\Users\den26\source\repos\CPP_club\Debug\CPP_club.exe

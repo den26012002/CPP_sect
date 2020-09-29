@@ -1,0 +1,5 @@
+Dear {*user_name},
+Thank you very much for choosing the services of our company!
+Your order number {*order_number} will be delivered in 10 working days after {current_date}.
+Sincerely yours,
+Online store administration.
